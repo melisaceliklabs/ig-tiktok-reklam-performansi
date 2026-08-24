@@ -116,7 +116,7 @@ Google Sheets'te üç aşamalı ilerledim:
 ├── gorseller/
 │   ├── kanal_karsilastirma.png
 │   └── aylik_performans.png
-└── IG_Ad_Performance_Report.xlsx  # Google Sheets çalışmasının indirilmiş hali
+└── IG Ad Performance Report.xlsx  # Google Sheets çalışmasının indirilmiş hali
 ```
 
 Google Sheets dosyası: [*(link burada)*](https://docs.google.com/spreadsheets/d/1IJE1s6wpK2YIx2Ct5MYoZGyI_5aUGr2Tyu6cKbXMILI/edit?gid=458775022#gid=458775022)
